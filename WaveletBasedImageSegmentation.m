@@ -12,8 +12,6 @@
 %  2. k-means clustering available at http://in.mathworks.com/matlabcentral/fileexchange/24616-kmeans-clustering/content/kmeans/kmeans.m
 %
 %  
-%  E-mail: (upashu1@rediffmail.com)
-% (c) 2014 - Ashutosh Kumar Upadhyay
 %
 clear all
 display 'program starts...'
